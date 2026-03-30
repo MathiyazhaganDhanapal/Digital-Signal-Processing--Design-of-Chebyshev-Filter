@@ -56,5 +56,5 @@ title('magnitude response chebyshev lpf');
 
 ## RESULT:
 
-Thus design 2nd Order Chebyshev Filter Design using Bilinear Transformation Method waveforms were plotted and output was 
-verified.
+![WhatsApp Image 2026-03-30 at 2 21 22 PM (6)](https://github.com/user-attachments/assets/19c84f09-dfd4-4351-8815-e4c8def455a9)
+
